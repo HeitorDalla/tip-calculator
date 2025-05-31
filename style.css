@@ -59,7 +59,7 @@ button#btnCalcular {
     transition: background-color 0.3s;
 }
 
-#aumento, #percentualAumento {
+#valorGorjeta, #totalPagar {
     margin-top: 15px;
     font-weight: bold;
     color: #333;
